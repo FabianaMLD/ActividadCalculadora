@@ -1,3 +1,7 @@
+var operandoa;
+var operandob;
+var operacion;
+
 function init() {
 
     var resultado = document.getElementById("resultado");
